@@ -1,0 +1,85 @@
+.kontejner 
+{
+    display: flex;
+    height: 750px;
+}
+
+h2 
+{
+    color: #1635b1;
+    margin: 5px;
+    font: 35px bold;
+}
+
+.forma 
+{
+    display: flex;
+    height: 700px;
+    flex-direction: column;
+    flex-basis: 250px;
+    margin: 5px;
+    border: 2px dotted rgb(43, 7, 85);
+    padding: 5px;
+    color: midnightblue;
+    background-color: rgba(215, 240, 250, 0.5);
+    font-size: 18px;
+}
+
+div 
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+select
+{
+    margin-top: 2px;
+}
+
+body 
+{
+    background-image: url(games.png);
+    background-size: 100%;
+}
+
+.kontejnerIgre
+{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 500px;
+    height: 720px;
+    font-size: 20px;
+    opacity: 60%;
+}
+
+.vrsta
+{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.videoIgra
+{
+    border: 1px  black;
+    flex: 1 1 10px;
+    margin: 5px;
+    text-align: center;
+    color:midnightblue;
+}
+
+.button
+{
+    width: 150px;
+    height: 24px;
+    margin: 5px;
+    align-self:center ;
+}
+
+.labele
+{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
