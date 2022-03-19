@@ -5948,11 +5948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\Desktop\\Projekat\\Projekat.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\WebProgramiranje\\Projekat\\Projekat.csproj",
       "projectName": "Projekat",
-      "projectPath": "C:\\Users\\danil\\Desktop\\Projekat\\Projekat.csproj",
+      "projectPath": "C:\\Users\\danil\\WebProgramiranje\\Projekat\\Projekat.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\Desktop\\Projekat\\obj\\",
+      "outputPath": "C:\\Users\\danil\\WebProgramiranje\\Projekat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lc3VPDrgazkXGkcySTa+nZ4gKxP9du7hw/57a6u99cXJe3eS2ooMujuCjKOYCYQMCU5aPwugcaUVhQPvR7NQgA==",
+  "dgSpecHash": "ZU0BnTVaJsnyx4l7N0g61ePUM4ElRYy2lPEKVol+V0IkLvtpKi2mjgtI0tbt0AbbA9dMqyuixTQOT2022HnOyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danil\\Desktop\\Projekat\\Projekat.csproj",
+  "projectFilePath": "C:\\Users\\danil\\WebProgramiranje\\Projekat\\Projekat.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
